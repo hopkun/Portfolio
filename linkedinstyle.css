@@ -1,0 +1,14 @@
+.grid-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+.grid-item{
+    background-color:azure;
+    color:black;
+    padding: 20px;
+}
+.flexcontainer{
+    display:flex;
+    gap:20px;
+}
